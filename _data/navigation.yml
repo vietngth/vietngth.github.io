@@ -1,22 +1,24 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
     url: /cv/
+    # can redirect to a pdf
+  - title: "Teaching"
+    url: /teaching/   
+
+  - title: "Portfolio"
+    url: /portfolio/
+    # markdown files
+
+  - title: "Publications"
+    url: /publications/
+  # just redirect to google scholar!
+
+  # - title: "Talks"
+  #   url: /talks/    
+ 
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
